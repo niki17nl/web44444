@@ -1,0 +1,56 @@
+@media (min-width: 800px ) and (max-width: 1320px ){
+
+.wrap{
+
+	width: 600px;
+}
+.block{
+
+margin: 50px 25px;
+align-content: center;
+}
+}
+
+@media (max-width: 799px ){
+.wrap{
+
+	width: 600px;
+}
+.block{
+align-content: center;
+margin: 30px 25px;
+}
+.nav{
+	max-width: 120px;
+}
+.button{
+	float: left;
+	margin: 8px 5px;
+}
+
+@media (max-width: 542px ){
+	.menu {
+	height: 280px;
+}
+.wrap{
+
+	width: 500px;
+}
+.block{
+	align-content: center;
+margin: 30px 25px;
+}
+.nav{
+	max-width: 120px;
+}
+.button{
+	float: left;
+	margin: 8px 5px;
+}
+.content2{
+	height: 1800px;
+	align-content: center;
+}
+.block1{
+	max-width: 300px;
+}
